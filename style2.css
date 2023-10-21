@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(15, 49, 59, 0.932);
+    
+}
+.q {
+    color: aliceblue;
+    width: 450px;
+    padding: 10px;
+}
+
+.b4 {
+    background-color: rgb(255, 240, 240);
+    width: 225px;
+    padding: 0px;
+}
+
+button {
+    float: left;
+    position: relative;
+    top: -80px;
+    left: 450px;
+}
+
+.b1 {
+    background-color: rgb(15, 49, 59);
+    width: 670px;
+}
+
+.d1 {
+    color: aliceblue;
+    width: 670px;
+}
+
+
+
